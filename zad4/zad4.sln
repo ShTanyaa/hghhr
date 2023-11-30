@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zad4", "zad4.csproj", "{4942E271-B515-420E-85D0-C487B8B89A7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp1", "..\WpfApp1\WpfApp1.csproj", "{43D3EEDA-1A92-416C-B7FF-21177AF4DD2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4942E271-B515-420E-85D0-C487B8B89A7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4942E271-B515-420E-85D0-C487B8B89A7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4942E271-B515-420E-85D0-C487B8B89A7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4942E271-B515-420E-85D0-C487B8B89A7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43D3EEDA-1A92-416C-B7FF-21177AF4DD2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43D3EEDA-1A92-416C-B7FF-21177AF4DD2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43D3EEDA-1A92-416C-B7FF-21177AF4DD2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43D3EEDA-1A92-416C-B7FF-21177AF4DD2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D940D91-1723-49F8-8787-C5C7BDAADF8D}
+	EndGlobalSection
+EndGlobal
